@@ -3,7 +3,7 @@
 > **Student Name:** `M.A.B.S.Maheshika Herath`
 > **Student ID:** `FGS/MSc/CS/2025/030`
 > **Course:** COSC 64173 Mobile Computing — Assignment 01 · University of Kelaniya
-> **Demo Video:** `<PASTE YOUR UNLISTED YOUTUBE / GOOGLE DRIVE LINK HERE>`
+> **Demo Video:** `https://drive.google.com/file/d/1I3PKy9mf9kbMtMM-XT3NBJcOiYhRpkEa/view?usp=sharing`
 > **GitHub Repository:** `https://github.com/Maashi-hub/eventpulse.git`
 
 ---
@@ -112,7 +112,7 @@ All code is in `services/notifications.js`.
 
 ```bash
 # 1. Clone
-git clone <YOUR_REPO_URL>
+git clone <https://github.com/Maashi-hub/eventpulse.git>
 cd eventpulse
 
 # 2. Install dependencies
