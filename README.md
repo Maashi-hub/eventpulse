@@ -1,6 +1,6 @@
 # EventPulse 📅 — Local Events Discovery App
 
-> **Student Name:** `M.A.B.S.M.Herath`
+> **Student Name:** `M.A.B.S.Maheshika Herath`
 > **Student ID:** `FGS/MSc/CS/2025/030`
 > **Course:** COSC 64173 Mobile Computing — Assignment 01 · University of Kelaniya
 > **Demo Video:** `<PASTE YOUR UNLISTED YOUTUBE / GOOGLE DRIVE LINK HERE>`
@@ -96,15 +96,15 @@ All code is in `services/notifications.js`.
 
 ## 8. Screenshots
 
-> Add your own screenshots to `docs/screenshots/` and keep these links.
+> Add  screenshots to `docs/screenshots/` and keep these links.
 
 | Explore | Filter Modal | Event Details |
 |:---:|:---:|:---:|
-| ![Explore](docs/screenshots/01-explore.png) | ![Filter](docs/screenshots/02-filter-modal.png) | ![Details](docs/screenshots/03-details.png) |
+| ![Explore](docs/screenshots/01-explore.jpg) | ![Filter](docs/screenshots/02-filter-modal.jpg) | ![Details](docs/screenshots/03-details.jpg) |
 
 | Favorites | Activity / AppState | Notification |
 |:---:|:---:|:---:|
-| ![Favorites](docs/screenshots/04-favorites.png) | ![Activity](docs/screenshots/05-activity.png) | ![Notification](docs/screenshots/06-notification.png) |
+| ![Favorites](docs/screenshots/04-favorites.jpg) | ![Activity](docs/screenshots/05-activity.jpg) | ![Notification](docs/screenshots/06-notification.jpg) |
 
 ## 9. Run the project locally
 
