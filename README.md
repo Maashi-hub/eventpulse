@@ -1,10 +1,10 @@
 # EventPulse 📅 — Local Events Discovery App
 
-> **Student Name:** `M.A.B.S.Maheshika Herath`
-> **Student ID:** `FGS/MSc/CS/2025/030`
+> **Student Name:** M.A.B.S.Maheshika Herath
+> **Student ID:** FGS/MSc/CS/2025/030
 > **Course:** COSC 64173 Mobile Computing — Assignment 01 · University of Kelaniya
-> **Demo Video:** `https://drive.google.com/file/d/1I3PKy9mf9kbMtMM-XT3NBJcOiYhRpkEa/view?usp=sharing`
-> **GitHub Repository:** `https://github.com/Maashi-hub/eventpulse.git`
+> **Demo Video:** https://drive.google.com/file/d/1I3PKy9mf9kbMtMM-XT3NBJcOiYhRpkEa/view?usp=sharing
+> **GitHub Repository:** https://github.com/Maashi-hub/eventpulse.git
 
 ---
 
